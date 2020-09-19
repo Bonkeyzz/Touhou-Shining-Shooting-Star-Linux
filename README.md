@@ -1,4 +1,4 @@
-# WMI Fix for Touhou: Shining Shooting Star
+# Exception 0x80041002 fix for Touhou: Shining Shooting Star
 
 This is a minor patch fix for Touhou: Shining Shooting Star that allows it to be played under wine on linux.
 
