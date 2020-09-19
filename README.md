@@ -7,7 +7,7 @@ This is a minor patch fix for Touhou: Shining Shooting Star that allows it to be
 ## Changes/Fixes
 
 1. Added overload for Dpi.GetDpi() Function to accept custom Dpi value.
-2. Added new configuration entries under Mode (DPIX, DPIY)
+2. Added new configuration entries under Mode (DpiX, DpiY)
 3. Added a new windowSize value (3 = 1920x1080) (Not confirmed to work. Can be changed in the config.)
 
 ## Installation
